@@ -1,6 +1,6 @@
 # 概要
 
-DockerによるMySQLの構築
+Dockerを使用してMySQLを構築しました。
 
 # 動作確認
 
